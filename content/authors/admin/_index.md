@@ -5,7 +5,8 @@ bio: My research interests include computer architecture, reinforced learning
   and control theory.
 interests:
   - computer architecture
-  - reinforced learning and control theory
+  - reinforced learning
+  - control theory
 social:
   - icon: envelope
     icon_pack: fas
