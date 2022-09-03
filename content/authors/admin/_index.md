@@ -4,9 +4,8 @@ role: "Student "
 bio: My research interests include computer architecture, reinforced learning
   and control theory.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - computer architecture
+  - reinforced learning and control theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +40,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yuhao Xie is a student of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuhao Xie is a master's student at the University of Florida. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yuhao_Xie_CV.pdf" "newtab" >}}resume{{< /staticref >}}.
