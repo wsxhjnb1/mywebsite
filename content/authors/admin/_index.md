@@ -1,6 +1,6 @@
 ---
 title: Yuhao Xie
-role: Professor of Artificial Intelligence
+role: "Student "
 bio: My research interests include computer architecture, reinforced learning
   and control theory.
 interests:
