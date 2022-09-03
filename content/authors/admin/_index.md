@@ -1,8 +1,8 @@
 ---
-title: Nelson Bighetti
+title: Yuhao Xie
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include computer architecture, reinforced learning
+  and control theory.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
